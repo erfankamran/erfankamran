@@ -1,0 +1,14 @@
+            - name: Setup YouTube Uploader
+  # You may pin to the exact commit or the version.
+  # uses: AnimMouse/setup-youtubeuploader@7569a381c5136b4f3ce3cd9fa50270e23a6ae026
+  uses: AnimMouse/setup-youtubeuploader@v2
+  with:
+    # client_secrets.json file encoded in Base64
+    client_secrets: # optional
+    # request.token file encoded in Base64
+    request_token: # optional
+    # YouTube Uploader version
+    version: # optional, default is latest
+    # GitHub token to avoid API rate limiting
+    token: # optional, default is ${{ github.token }}
+          
