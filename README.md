@@ -1,14 +1,14 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-<h1 align="center">
+<h1 align="left">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Erfan+Kamran!;" />
 </h1>
 
-<h3 align="center">A software developer from Iran </h3>
+<h3 align="left">A software developer from Iran </h3>
 
 <br/>
 
-<div align="center">
+<div align="left">
  
  🔭 I’m currently working on **a marketplace**
  
